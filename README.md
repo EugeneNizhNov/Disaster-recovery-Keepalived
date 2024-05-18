@@ -15,6 +15,6 @@
 
 ![Image alt](img/ping2.jpg)
 
-![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)
+![Image alt](img/ping3.jpg)
 
 [Схема решения](https://github.com/Byzgaev-I/Keepalived/blob/main/1-hsrp_advanced_Netology.pkt)
