@@ -9,9 +9,9 @@
 ------
 ### Выполнения задания 1
 
-![Image alt]img/config.jpg)
+![Image alt](img/config.jpg)
 
-![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)
+![Image alt](img/ping1.jpg)
 
 ![Image alt](https://github.com/Byzgaev-I/Keepalived/blob/main/Keepalive%201.png)
 
